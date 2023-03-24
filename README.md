@@ -9,3 +9,5 @@ We Set up our github account in preparation for the creation of the project API.
 John Rayson Marsonia
 
 Lance Fontanilla
+
+Felix Cortez
